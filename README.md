@@ -4,3 +4,5 @@
 * Spring Security
 * Swagger
 * Spring JPA
+* PostgreSQL
+
